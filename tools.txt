@@ -1,0 +1,2 @@
+git is source code
+maven is deployment
