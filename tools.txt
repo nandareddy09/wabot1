@@ -1,3 +1,4 @@
 git is source code
 maven is deployment
 jenkins is popular
+docker is one of them
